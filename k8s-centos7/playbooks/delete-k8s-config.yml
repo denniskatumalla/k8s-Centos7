@@ -28,4 +28,3 @@
     - /etc/kubernetes/
     - /var/lib/etcd/
     - $HOME/.kube/
-

@@ -1,6 +1,6 @@
 [kubernetes-master-nodes]
-kubernetes-master.learnitguide.net ansible_host=10.74.235.63
+katde01-l26398-kubemaster ansible_host=10.74.235.63
 
 [kubernetes-worker-nodes]
-kubernetes-worker1.learnitguide.net ansible_host=10.74.235.62
-kubernetes-worker2.learnitguide.net ansible_host=10.74.239.142
+katde01-L26399-kubenode1 ansible_host=10.74.235.62
+katde01-L26400-kubenode2 ansible_host=10.74.239.142
